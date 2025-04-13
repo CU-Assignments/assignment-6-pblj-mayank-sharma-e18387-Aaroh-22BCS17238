@@ -1,0 +1,23 @@
+Employee Sorter
+
+Gaurav - Age: 25, Salary: 60000.0
+Ratnesh - Age: 30, Salary: 50000.0
+Vishal - Age: 35, Salary: 45000.0
+
+
+
+Student Filter
+
+Olivia
+Emma
+Noah
+
+
+
+Product Processor
+
+Most Expensive Product per Category:
+Electronics: Laptop (75000.0)
+Furniture: Table (10000.0)
+
+Average Price of All Products: 35000.0
